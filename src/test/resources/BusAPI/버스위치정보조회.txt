@@ -1,0 +1,8 @@
+
+1. getBusPosByRtid  ( 노선ID로 차량들의 위치정보를 조회한다 )
+
+  ServiceKey=IceKYL%2BzDuhtUtu0AkbuYQkyOjHz4kjhL4n1UUHGhaLzskUkBL2gLiscnKmlLX6VvK22mHDaFXgbkmFH4wR8cg%3D%3D
+  busRouteId=4441201
+  http://ws.bus.go.kr/api/rest/buspos/getBusPosByRtid 
+  
+   http://ws.bus.go.kr/api/rest/buspos/getBusPosByRtid?busRouteId=4441201&ServiceKey=IceKYL%2BzDuhtUtu0AkbuYQkyOjHz4kjhL4n1UUHGhaLzskUkBL2gLiscnKmlLX6VvK22mHDaFXgbkmFH4wR8cg%3D%3D
